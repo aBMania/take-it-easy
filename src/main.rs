@@ -51,7 +51,7 @@ top right -> bottom left diags:
     - 6, 10, 14, 18
     - 11, 15, 19
 */
-k
+
 // (cols, tl, tr)
 #[derive(Clone, Debug)]
 struct HexagonCoord(usize, usize, usize);
